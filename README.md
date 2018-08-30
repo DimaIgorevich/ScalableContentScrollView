@@ -33,6 +33,9 @@ There are many ways you are able to customize showing effect for your scalable v
 **1.0.0 Release (30/08/2018)**
 * CocoaPods now has current version
 
+**1.0.1 Release (30/08/2018)**
+* Added Readme.md
+
 ## Authors
 
 [Dima Rumiankov](https://github.com/DimaIgorevich) - iOS Developer ([LinkedIn](https://www.linkedin.com/in/dima-rumiankov-5902a7140/))
