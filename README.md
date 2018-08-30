@@ -43,9 +43,9 @@ There are many ways you are able to customize showing effect for your scalable v
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-### BTC:
+### BTC: 1BuVQt6HnPRUBpq8sip3LRHy6xipptB1qh
 
-### ETH:
+### ETH: 0xA66bB583690546C481B825db6A0049311Afe969F
 
 ## License
 
