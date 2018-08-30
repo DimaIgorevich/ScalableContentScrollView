@@ -37,6 +37,8 @@
 
 @end
 
+NS_SWIFT_NAME(ScalableContentScrollView)
+
 @interface QLScalableContentScrollView : UIScrollView
 
 @property (assign, nonatomic) id<QLScalableContentScrollViewDelegate> contentDelegate;

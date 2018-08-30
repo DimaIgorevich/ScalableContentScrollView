@@ -291,4 +291,6 @@ CGFloat const kWidthProportionalMin      = 0.25f;
     _contentDataSource = contentDataSource;
     [self reloadData];
 }
+
 @end
+
